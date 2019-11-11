@@ -1,4 +1,4 @@
-# Machine Learning Coding Assignments
+# Machine Learning Coding Assignments :rocket:
 
 ## Decision Trees
 The model is used to determine whether a car is fast or not based on provided attributes.
@@ -16,7 +16,7 @@ Inside ```decision_trees/``` you will find:
 
 
 # Group Members
-1. Stephen Wanyee (100565) [Github Account](https://github.com/steekam)
+1. Stephen Wanyee (100565) [ :octocat: Github Account](https://github.com/steekam)
 2. Nicole Muswanya (101112) [Github Account](https://github.com/naym0)
 3. Allan Vikiru (98587) [Github Account](https://github.com/AllanVikiru)
 4. Daniel Olamide (102214) [Github Account](https://github.com/danielolamide)
