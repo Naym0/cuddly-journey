@@ -16,7 +16,7 @@ Inside ```decision_trees/``` you will find:
 
 
 # Group Members
-1. Stephen Wanyee (100565) [ :octocat: Github Account](https://github.com/steekam)
-2. Nicole Muswanya (101112) [Github Account](https://github.com/naym0)
-3. Allan Vikiru (98587) [Github Account](https://github.com/AllanVikiru)
-4. Daniel Olamide (102214) [Github Account](https://github.com/danielolamide)
+1. Stephen Wanyee (100565) [:octocat:](https://github.com/steekam)
+2. Nicole Muswanya (101112) [:octocat:](https://github.com/naym0)
+3. Allan Vikiru (98587) [:octocat:](https://github.com/AllanVikiru)
+4. Daniel Olamide (102214) [:octocat:](https://github.com/danielolamide)
